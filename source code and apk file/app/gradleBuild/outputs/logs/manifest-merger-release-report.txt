@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\113f59dca4b0f33a56bbae66cf229b99\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\70e86eaaf48c46313f629bda6d744b7f\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a85564398414bfb7e217e2a2a67201d1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\55ec049e91285dc1fcf8930b992a5872\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3819036a0f4ef049f1ce84c8a4c372c6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e44859478f8577fcb3cef96fd8c4b6db\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bae7ac4c306d75e2fd94625643245455\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\ac0d70f9ad1088f8c478459f54782d03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\ebdea9bd3f6c58655f874f94f3478a21\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\2857a5c9b09b64a2c1aec7bd300a419c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\43c0c440b823c45b55aa431ecbbcec58\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\9a9f29328f30eae7614b1c17feee9b21\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\53efc22b337ab1facf7e610cd0892aee\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8abee060c8adc767f77c77c7ba2449fd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5d69c7fb7531fe4977f3d9b78c26992e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\3bc3aa7114dafbb5e2e74d393586a47f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\1dba5eb30fa789bf35588dac26e50f53\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b46b5ee53cb6aa404da0dcd46bea0413\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\79b32646dd0bbc5b2976833205ce399d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\f89b0d434fc77ee6cf34b0f398c5916e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06823f51644a55def761be9654deb3cf\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\4118dac69abd58db22544e8633b32732\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8ec652a7f6c6117a0d8dfd8bc786f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01759f84fedc8132f6072a24be2f9ecf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\106d0ef0d879046872803f479d06cb83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f41e401ce31abbdf5d85b3c044cf0176\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:4:5-64
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:4:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:6:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\70e86eaaf48c46313f629bda6d744b7f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\70e86eaaf48c46313f629bda6d744b7f\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a85564398414bfb7e217e2a2a67201d1\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a85564398414bfb7e217e2a2a67201d1\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.shishir.eyeassistant.SplashActivity
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:16:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.shishir.eyeassistant.ClassifierActivity
+ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:23:19-53
+uses-sdk
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\113f59dca4b0f33a56bbae66cf229b99\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\113f59dca4b0f33a56bbae66cf229b99\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\70e86eaaf48c46313f629bda6d744b7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\70e86eaaf48c46313f629bda6d744b7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\55ec049e91285dc1fcf8930b992a5872\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\55ec049e91285dc1fcf8930b992a5872\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3819036a0f4ef049f1ce84c8a4c372c6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3819036a0f4ef049f1ce84c8a4c372c6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e44859478f8577fcb3cef96fd8c4b6db\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e44859478f8577fcb3cef96fd8c4b6db\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bae7ac4c306d75e2fd94625643245455\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bae7ac4c306d75e2fd94625643245455\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\ac0d70f9ad1088f8c478459f54782d03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\ac0d70f9ad1088f8c478459f54782d03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\ebdea9bd3f6c58655f874f94f3478a21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\ebdea9bd3f6c58655f874f94f3478a21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\2857a5c9b09b64a2c1aec7bd300a419c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\2857a5c9b09b64a2c1aec7bd300a419c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\43c0c440b823c45b55aa431ecbbcec58\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\43c0c440b823c45b55aa431ecbbcec58\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\9a9f29328f30eae7614b1c17feee9b21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\9a9f29328f30eae7614b1c17feee9b21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\53efc22b337ab1facf7e610cd0892aee\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\53efc22b337ab1facf7e610cd0892aee\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8abee060c8adc767f77c77c7ba2449fd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8abee060c8adc767f77c77c7ba2449fd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5d69c7fb7531fe4977f3d9b78c26992e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5d69c7fb7531fe4977f3d9b78c26992e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\3bc3aa7114dafbb5e2e74d393586a47f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\3bc3aa7114dafbb5e2e74d393586a47f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\1dba5eb30fa789bf35588dac26e50f53\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\1dba5eb30fa789bf35588dac26e50f53\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b46b5ee53cb6aa404da0dcd46bea0413\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b46b5ee53cb6aa404da0dcd46bea0413\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\79b32646dd0bbc5b2976833205ce399d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\79b32646dd0bbc5b2976833205ce399d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\f89b0d434fc77ee6cf34b0f398c5916e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\f89b0d434fc77ee6cf34b0f398c5916e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06823f51644a55def761be9654deb3cf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06823f51644a55def761be9654deb3cf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\4118dac69abd58db22544e8633b32732\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\4118dac69abd58db22544e8633b32732\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8ec652a7f6c6117a0d8dfd8bc786f1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8ec652a7f6c6117a0d8dfd8bc786f1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01759f84fedc8132f6072a24be2f9ecf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01759f84fedc8132f6072a24be2f9ecf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\106d0ef0d879046872803f479d06cb83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\106d0ef0d879046872803f479d06cb83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f41e401ce31abbdf5d85b3c044cf0176\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHISHIR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f41e401ce31abbdf5d85b3c044cf0176\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\SHISHIR\AndroidStudioProjects\EyeAssistant\app\src\main\AndroidManifest.xml:2:1-29:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

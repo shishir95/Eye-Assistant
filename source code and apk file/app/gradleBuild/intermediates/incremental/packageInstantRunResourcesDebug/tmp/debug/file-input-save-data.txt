@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Dec 14 04:35:29 BDT 2018
+1.base=C\:\\Users\\SHISHIR\\AndroidStudioProjects\\EyeAssistant\\app\\gradleBuild\\intermediates\\assets\\debug
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\SHISHIR\\AndroidStudioProjects\\EyeAssistant\\app\\gradleBuild\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=cifar10.pb
+0.set=ASSET
+0.base=C\:\\Users\\SHISHIR\\AndroidStudioProjects\\EyeAssistant\\app\\gradleBuild\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=graph.pb

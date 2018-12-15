@@ -1,0 +1,4 @@
+#Sat Dec 15 02:58:46 BDT 2018
+base.0=C\:\\Users\\SHISHIR\\AndroidStudioProjects\\EyeAssistant\\app\\gradleBuild\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
