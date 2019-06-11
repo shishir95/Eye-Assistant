@@ -5,5 +5,4 @@ In this project our main motive was to make an application that can make life ea
 
 The target audience being the visually impaired introduces additional challenges. The user is unaware of the condition of the surrounding environment — other objects, lighting, contrast, and even whether the object is properly placed in the field of view of the camera or not. The application we intend to make will only have one interface. When the user will tell the phone to open the app via google assistant, the app opens and instantly the camera is turned on. The user has to hold the object before the camera so that the app can detect it and scan and then a voice will say what object it is. Our app will have text to speech api to read text in real time so that the user can know what object they scan at real time. We will also use real time object detection api to recognize object the moment it is scanned.
 
-Youtube promo video link: https://youtu.be/TMot84ylDqQ
-https://github.com/shishir95/Eye-Assistant/tree/master/source%20code%20and%20apk%20file/app/release | NsuAlpha | Android app for visually impaired |[MIT License](LICENSE)| Bangladesh | https://github.com/shishir95
+
